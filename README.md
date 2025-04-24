@@ -1,4 +1,4 @@
-# Hi, I'm Phi Duc Ngo
+# Hi, I'm Duc Phi Ngo
 
 **Senior Simulation Engineer | CFD & Multiphysics | Software + ML Integration**
 
