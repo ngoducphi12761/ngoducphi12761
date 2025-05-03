@@ -1,8 +1,8 @@
 # Hi, I'm Duc Phi Ngo
 
-**Senior Simulation Engineer | CFD & Multiphysics | Software + ML Integration**
+**Senior CFD Engineer | Simulation Software Developer | CFD/FEA + Python/Java/C++ + ML Integration**
 
-I’m a simulation engineer with a strong foundation in **CFD, FEA, and thermal-fluid systems**, combined with expertise in **Python, Java**, and **machine learning**. I build **intelligent, high-fidelity simulation workflows** that accelerate product design, multiphysics modeling, and optimization at scale.
+I’m a senior simulation engineer with deep expertise in **CFD, FEA, and thermal-fluid systems**, integrated with advanced skills in **Python, Java**, and **machine learning**. I develop **high-performance, intelligent simulation workflows** that accelerate product development, multiphysics modeling, and AI-driven optimization.
 
 ---
 
@@ -18,15 +18,13 @@ I’m a simulation engineer with a strong foundation in **CFD, FEA, and thermal-
 
 ### Tech Stack
 
-**Languages:** Python, Java, C++, Fortran, Matlab  
+**Languages:** Python, Java, C++, Fortran, MATLAB  
 **Simulation Tools:** Ansys Fluent, OpenFOAM, STAR-CCM+, Siemens Amesim  
-**AI/ML:** PyTorch, scikit-learn, TensorFlow
-**Platforms:** Linux, HPC, GitHub Actions, VS Code
+**AI/ML:** PyTorch, TensorFlow, scikit-learn  
+**Platforms:** Linux, High-Performance Computing (HPC), GitHub Actions, VS Code
 
 ---
 
 ### I’m passionate about...
 
 Transforming physics-based simulation into a fast, intelligent, and scalable engine for innovation — bridging engineering fundamentals with modern software and AI.
-
----
