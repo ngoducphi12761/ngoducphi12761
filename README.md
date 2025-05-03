@@ -11,16 +11,16 @@ I’m a simulation engineer with a strong foundation in **CFD, FEA, and thermal-
 - ✅ High-performance CFD pipelines (Ansys Fluent, OpenFOAM, STAR-CCM+)
 - ✅ Multiphysics simulation and real-world model validation
 - ✅ Workflow automation and co-simulation using Python & Java
-- ✅ Parametric CAD integration and ML-enhanced design optimization
+- ✅ ML-enhanced design optimization
 - ✅ Scalable engineering pipelines on HPC and cloud platforms
 
 ---
 
 ### Tech Stack
 
-**Languages:** Python, Java  
+**Languages:** Python, Java, C++, Fortran, Matlab  
 **Simulation Tools:** Ansys Fluent, OpenFOAM, STAR-CCM+, Siemens Amesim  
-**AI/ML:** PyTorch, Whisper, LLM APIs  
+**AI/ML:** PyTorch, scikit-learn, TensorFlow
 **Platforms:** Linux, HPC, GitHub Actions, VS Code
 
 ---
