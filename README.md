@@ -18,7 +18,7 @@ I’m a senior simulation engineer with deep expertise in **CFD, FEA, and therma
 
 ### Tech Stack
 
-**Languages:** Python, Java, C++, Fortran, Matlab
+**Languages:** Python, Java, C++, Fortran, Matlab 
 **Simulation Tools:** Ansys Fluent, OpenFOAM, STAR-CCM+, Siemens Amesim  
 **AI/ML:** PyTorch, TensorFlow, scikit-learn  
 **Platforms:** Linux, High-Performance Computing (HPC), GitHub Actions, VS Code
